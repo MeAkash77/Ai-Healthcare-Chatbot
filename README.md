@@ -23,7 +23,7 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -M main
-git remote add origin https://github.com/arvindsis11/MyRestApi.git
+git remote add origin https://github.com/MeAkash77/Ai-Healthcare-Chatbot.git
 git push -u origin main
 git rm -r --cached .
 ////////////////////////////////////////
@@ -31,7 +31,7 @@ or push an existing repository from the command line
 git remote add origin https://github.com/arvindsis11/springJPAdemo.git
 git branch -M main
 git push -u origin main
-https://github.com/arvindsis11/angular-todomanagement-app.git
+https://github.com/MeAkash77/Ai-Healthcare-Chatbot.git
 /////////////////////////////////////
 common git error:
 use this:
@@ -41,4 +41,4 @@ url:https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-r
  ```
 
 ## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
+This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/MeAkash77/Ai-Healthcare-Chatbot.git) page.
