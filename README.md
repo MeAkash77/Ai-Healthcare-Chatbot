@@ -28,7 +28,7 @@ git push -u origin main
 git rm -r --cached .
 ////////////////////////////////////////
 or push an existing repository from the command line
-git remote add origin https://github.com/arvindsis11/springJPAdemo.git
+git remote add origin https://github.com/MeAkash77/Ai-Healthcare-Chatbot.git
 git branch -M main
 git push -u origin main
 https://github.com/MeAkash77/Ai-Healthcare-Chatbot.git
