@@ -13,8 +13,6 @@ SQLAlchemy==1.1.11
  4. Demo will be live at http://localhost:5000/
  5. please refer this for setup -  
 
-https://github.com/user-attachments/assets/e050d0f2-7c6d-420c-a13a-d59a762aa047
-
 
 
  
